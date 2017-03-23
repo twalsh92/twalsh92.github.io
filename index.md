@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/twalsh92/twalsh92.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD student at the [University of Sheffield](http://shef.ac.uk), a member of the [Testing Research Group](https://www.sheffield.ac.uk/dcs/research/groups/testing/home), researching novel methods for quality assurance of responsive web pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+#### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I graduated with a First Class Bachelor's degree in Software Engineering from the University of Sheffield in 2014, during which I developed advanced skills in software development, testing, project and team management.
 
-```markdown
-Syntax highlighted code block
+#### Employment
 
-# Header 1
-## Header 2
-### Header 3
+I currently work as a teaching assistant, helping undergraduate students in laboratory sessions and answering any other questions they may have. Also, between my second and third years of my undergraduate degree, I completed an 8-week software testing internship at a London based tech-startup, which allows me to hone my testing skills, while I've also completed a couple of freelance web development projects.
 
-- Bulleted
-- List
+#### Interests
 
-1. Numbered
-2. List
+Outside of the laboratory, I'm a big fan of cycling and running as means of staying healthy. When it comes to relaxing, I am an avid fan of literature and music, and I'm in the process of building up extensive book and vinyl record collections.
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+#### Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages
+##### by Thomas A. Walsh, Phil McMinn and Gregory M. Kapfhammer
+###### INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2015)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Download PDF](ase2015.pdf)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twalsh92/twalsh92.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Due to the exponential increase in the number of mobile devices being used to access the World Wide Web, it is crucial that web sites are functional and user-friendly across a wide range of web-enabled devices. This necessity has resulted in the introduction of responsive web design (RWD), which uses complex cascading style sheets (CSS) to fluidly modify a web site’s appearance depending on the viewport width of the device in use. Although existing tools may support the testing of responsive web sites, they are time consuming and error-prone to use because they require manual screenshot inspection at specified viewport widths. Addressing these concerns, this paper presents a method that can automatically detect potential layout faults in responsively designed web sites. To experimentally evaluate this approach, we implemented it as a tool, called REDECHECK, and applied it to 5 real-world web sites that vary in both their approach to responsive design and their complexity. The experiments reveal that REDECHECK finds 91% of the inserted layout faults.
