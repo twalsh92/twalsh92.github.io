@@ -26,6 +26,12 @@ Outside of the laboratory, I'm a big fitness fan and like to run or get out on m
 
 ## Publications
 
+### Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle
+#### Thomas A. Walsh, Gregory M. Kapfhammer and Phil McMinn
+##### International Symposium on Software Testing and Analysis (ISSTA 2017)
+
+As the number and variety of devices being used to access the World Wide Web grows exponentially, ensuring the correct presentation of a web page, regardless of the device used to browse it, is an important and challenging task. When developers adopt responsive web design (RWD) techniques, web pages modify their appearance to accommodate a device’s display constraints. However, a current lack of automated support means that presentation failures may go undetected in a page’s layout when rendered for different viewport sizes. A central problem is the difficulty in providing an automated "oracle" to validate RWD layouts against, meaning checking for failures is largely a manual process in practice, which results in layout failures in many live responsive web sites. This paper presents an automated failure detection technique that checks the consistency of a responsive page’s layout across a range of viewport widths, obviating the need for an explicit oracle. In an empirical study, this method found failures in 16 of 26 real-world production pages studied, detecting 33 distinct failures in total.
+
 ### Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages
 #### by Thomas A. Walsh, Phil McMinn and Gregory M. Kapfhammer
 ##### INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2015)
