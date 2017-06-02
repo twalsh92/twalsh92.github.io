@@ -10,14 +10,10 @@ I graduated with a First Class Bachelor's degree in Software Engineering from th
 
 ### Employment
 
-#### Graduate Teaching Assistant
-##### University of Sheffield
-##### September 2014 - Present
+#### Graduate Teaching Assistant, University of Sheffield - September 2014 - Present
 Responsible for assisting undergraduate students during weekly lab classes, helping solve technical issues and answering any questions they may have. I have also had the opportunity to lead certain lab classes and to work alongside lecturers in the planning of future lab classes.
 
-#### Software Testing and Development Intern
-##### SkillFlick
-###### July 2013 - September 2013
+#### Software Testing and Development Intern, SkillFlick - July 2013 - September 2013
 Worked primarily as a Ruby on Rails software tester, developing a fully automated acceptance test suite for the application using popular technologies such as Cucumber. Also undertook some regular Ruby on Rails development work for a smaller companion tool for the site which handled the booking of photoshoots for users of the site.
 
 ### Interests
@@ -26,15 +22,18 @@ Outside of the laboratory, I'm a big fitness fan and like to run or get out on m
 
 ## Publications
 
-### Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle
-#### Thomas A. Walsh, Gregory M. Kapfhammer and Phil McMinn
-##### International Symposium on Software Testing and Analysis (ISSTA 2017)
+### Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle - Thomas A. Walsh, Gregory M. Kapfhammer and Phil McMinn
+#### International Symposium on Software Testing and Analysis (ISSTA 2017)
 
 As the number and variety of devices being used to access the World Wide Web grows exponentially, ensuring the correct presentation of a web page, regardless of the device used to browse it, is an important and challenging task. When developers adopt responsive web design (RWD) techniques, web pages modify their appearance to accommodate a device’s display constraints. However, a current lack of automated support means that presentation failures may go undetected in a page’s layout when rendered for different viewport sizes. A central problem is the difficulty in providing an automated "oracle" to validate RWD layouts against, meaning checking for failures is largely a manual process in practice, which results in layout failures in many live responsive web sites. This paper presents an automated failure detection technique that checks the consistency of a responsive page’s layout across a range of viewport widths, obviating the need for an explicit oracle. In an empirical study, this method found failures in 16 of 26 real-world production pages studied, detecting 33 distinct failures in total.
 
-### Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages
-#### by Thomas A. Walsh, Phil McMinn and Gregory M. Kapfhammer
-##### INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2015)
+### ReDeCheck: An Automatic Layout Failure Checking Tool for Responsively Designed Web Pages - Thomas A. Walsh, Gregory M. Kapfhammer and Phil McMinn
+#### "Demonstrations" track, International Symposium on Software Testing and Analysis (ISSTA 2017)
+
+Since people frequently access websites with a wide variety of devices (e.g., mobile phones, laptops, and desktops), developers need frameworks and tools for creating layouts that are useful at many viewport widths. While responsive web design (RWD) principles and frameworks facilitate the development of such sites, there is a lack of tools supporting the detection of failures in their layout. Since the quality assurance process for responsively designed websites is often manual, time-consuming, and error-prone, this paper presents ReDeCheck, an automated layout checking tool that alerts developers to both potential unintended regressions in responsive layout and common types of layout failure. In addition to summarizing ReDeCheck’s benefits, this paper explores two different usage scenarios for this tool that is publicly available on GitHub.
+
+### Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages - Thomas A. Walsh, Phil McMinn and Gregory M. Kapfhammer
+#### INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2015)
 
 [Download PDF](ase2015.pdf)
 
