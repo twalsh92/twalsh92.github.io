@@ -4,8 +4,6 @@ I'm a PhD student at the [University of Sheffield](http://shef.ac.uk), a member 
 
 ## About Me
 
-### Education
-
 I graduated with a First Class Bachelor's degree in Software Engineering from the University of Sheffield in 2014, during which I developed advanced skills in software development, testing, project and team management. Before that, I studied at Winstanley College where I obtained A-grade A levels in Computing, Mathematics, Further Mathematics and Physics.
 
 ### Employment
