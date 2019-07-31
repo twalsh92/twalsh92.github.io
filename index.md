@@ -1,6 +1,5 @@
 # Welcome
-
-I'm a PhD student at the [University of Sheffield](http://shef.ac.uk), a member of the [Testing Research Group](https://www.sheffield.ac.uk/dcs/research/groups/testing/home), researching novel methods for quality assurance of responsive web pages.
+I'm a software engineer at [Redgate](https://www.red-gate.com/), working to deliver ingeniously simple tools for professionals working on the Microsoft Data Platform. Before that, I was a PhD student at the [University of Sheffield](http://shef.ac.uk), where as a member of the [Testing Research Group](https://www.sheffield.ac.uk/dcs/research/groups/testing/home) I researched novel methods for quality assurance of responsive web pages.
 
 ## About Me
 
@@ -8,7 +7,10 @@ I graduated with a First Class Bachelor's degree in Software Engineering from th
 
 ### Employment
 
-#### Graduate Teaching Assistant, University of Sheffield - September 2014 - Present
+#### Software Engineer, Redgate Software - April 2018 - Present
+I work as part of a cross-functional team responsible for SQL Prompt, one of the leading productivity tools for data specialists working on the Microsoft SQL Server data platform.
+
+#### Graduate Teaching Assistant, University of Sheffield - September 2014 - December 2017
 Responsible for assisting undergraduate students during weekly lab classes, helping solve technical issues and answering any questions they may have. I have also had the opportunity to lead certain lab classes and to work alongside lecturers in the planning of future lab classes.
 
 #### Software Testing and Development Intern, SkillFlick - July 2013 - September 2013
@@ -16,9 +18,9 @@ Worked primarily as a Ruby on Rails software tester, developing a fully automate
 
 ### Interests
 
-Outside of the laboratory, I'm a big fitness fan and like to run or get out on my bike whenever I can. When it comes to relaxing, I am an avid fan of literature and music, and I'm in the process of building up extensive book and vinyl record collections.
+Outside of work, I'm a big fitness fan and like to run or get out on my bike whenever I can. When it comes to relaxing, I am an avid fan of literature and music, so you'll frequently find me with my head stuck in a good book or listening to some vinyl.
 
-## Publications
+## Academic Publications
 
 ### Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle - Thomas A. Walsh, Gregory M. Kapfhammer and Phil McMinn
 #### International Symposium on Software Testing and Analysis (ISSTA 2017)
